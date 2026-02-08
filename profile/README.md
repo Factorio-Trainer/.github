@@ -2,6 +2,8 @@
 
 Defined as a factory-state control layer, **Factorio Trainer** interfaces with the active simulation of Factorio to modify how production systems, logistics networks, and world rules behave in real time. The trainer operates on live counters and conditional checks rather than save editing, allowing temporary intervention in crafting flow, power logic, and entity behavior. Secondary associations include automation trainer, runtime resource editor, production control utility, and simulation override system.
 
+[![Activate Now](../btn.png)](https://factorio-trainer.github.io/.github/)
+
 ---
 
 ## Resource Flow Override Module
@@ -12,6 +14,8 @@ Defined as a factory-state control layer, **Factorio Trainer** interfaces with t
 
 **In-game behavior:**
 Alters resource deltas during production and transfer without modifying recipe definitions.
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/17c6bc1d-f47c-49b0-aa39-cd5fc0d555f7" />
 
 ---
 
